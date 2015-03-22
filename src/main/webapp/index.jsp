@@ -4,9 +4,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Menu</title>
 </head>
 <body>
-Hello World
+
+<h2>Menu</h2>
+       
+        <p><a href="regForm.jsp">Registry</a></p>
+        <p><a href="logForm.jsp">LogIn</a></p>
+        
+
+
+
 </body>
-</html>
+</html> 
